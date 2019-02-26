@@ -9,5 +9,7 @@ git push
 git remote
 git push heroku master
 git commit -a -m ""
+git commit -am ""
+
 
 
