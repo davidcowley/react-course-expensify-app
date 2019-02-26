@@ -8,5 +8,6 @@ git log - View recent commits
 git push
 git remote
 git push heroku master
+git commit -a -m ""
 
 
